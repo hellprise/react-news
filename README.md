@@ -1,5 +1,4 @@
 Stack:
 
 -React;
-
 -Axios;
